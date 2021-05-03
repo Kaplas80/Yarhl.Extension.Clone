@@ -4,7 +4,7 @@
         "src": [
           {
             "files": [
-              "MyLibrary/MyLibrary.csproj"
+              "Yarhl.Extension.Clone/Yarhl.Extension.Clone.csproj"
             ],
             "src": "../src"
           }
