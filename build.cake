@@ -4,7 +4,7 @@ Task("Define-Project")
     .Description("Fill specific project information")
     .Does<BuildInfo>(info =>
 {
-    info.PreviewNuGetFeed = "https://pkgs.dev.azure.com/kaplas80/_packaging/Kaplas80-Preview/nuget/v3/index.json";
+    info.PreviewNuGetFeed = "https://pkgs.dev.azure.com/kaplas80/Kaplas80-Preview/_packaging/Kaplas-Software-Preview/nuget/v3/index.json";
 
     info.AddLibraryProjects("Yarhl.Extension.Clone");
     info.AddTestProjects("Yarhl.Extension.CloneTests");
