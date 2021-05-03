@@ -1,0 +1,53 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CONTRIBUTING
+  name: Contributing to the project
+  href: guides/Contributing.html
+- uid: README
+  name: 'Yarhl Node Cloning Extension  '
+  href: index.html
+- uid: Yarhl.Extension.Clone
+  name: Yarhl.Extension.Clone
+  href: api/Yarhl.Extension.Clone.html
+  commentId: N:Yarhl.Extension.Clone
+  fullName: Yarhl.Extension.Clone
+  nameWithType: Yarhl.Extension.Clone
+- uid: Yarhl.Extension.Clone.ICloneableFormat
+  name: ICloneableFormat
+  href: api/Yarhl.Extension.Clone.ICloneableFormat.html
+  commentId: T:Yarhl.Extension.Clone.ICloneableFormat
+  fullName: Yarhl.Extension.Clone.ICloneableFormat
+  nameWithType: ICloneableFormat
+- uid: Yarhl.Extension.Clone.ICloneableFormat.DeepClone
+  name: DeepClone()
+  href: api/Yarhl.Extension.Clone.ICloneableFormat.html#Yarhl_Extension_Clone_ICloneableFormat_DeepClone
+  commentId: M:Yarhl.Extension.Clone.ICloneableFormat.DeepClone
+  fullName: Yarhl.Extension.Clone.ICloneableFormat.DeepClone()
+  nameWithType: ICloneableFormat.DeepClone()
+- uid: Yarhl.Extension.Clone.ICloneableFormat.DeepClone*
+  name: DeepClone
+  href: api/Yarhl.Extension.Clone.ICloneableFormat.html#Yarhl_Extension_Clone_ICloneableFormat_DeepClone_
+  commentId: Overload:Yarhl.Extension.Clone.ICloneableFormat.DeepClone
+  isSpec: "True"
+  fullName: Yarhl.Extension.Clone.ICloneableFormat.DeepClone
+  nameWithType: ICloneableFormat.DeepClone
+- uid: Yarhl.Extension.Clone.NodeFactory
+  name: NodeFactory
+  href: api/Yarhl.Extension.Clone.NodeFactory.html
+  commentId: T:Yarhl.Extension.Clone.NodeFactory
+  fullName: Yarhl.Extension.Clone.NodeFactory
+  nameWithType: NodeFactory
+- uid: Yarhl.Extension.Clone.NodeFactory.FromNode(Node)
+  name: FromNode(Node)
+  href: api/Yarhl.Extension.Clone.NodeFactory.html#Yarhl_Extension_Clone_NodeFactory_FromNode_Node_
+  commentId: M:Yarhl.Extension.Clone.NodeFactory.FromNode(Node)
+  fullName: Yarhl.Extension.Clone.NodeFactory.FromNode(Node)
+  nameWithType: NodeFactory.FromNode(Node)
+- uid: Yarhl.Extension.Clone.NodeFactory.FromNode*
+  name: FromNode
+  href: api/Yarhl.Extension.Clone.NodeFactory.html#Yarhl_Extension_Clone_NodeFactory_FromNode_
+  commentId: Overload:Yarhl.Extension.Clone.NodeFactory.FromNode
+  isSpec: "True"
+  fullName: Yarhl.Extension.Clone.NodeFactory.FromNode
+  nameWithType: NodeFactory.FromNode
